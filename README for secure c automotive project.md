@@ -40,3 +40,4 @@ The goal is to understand how software vulnerabilities can lead to ECU compromis
 
 ## Disclaimer
 Educational use only. No proprietary automotive code included.
+This repository is part of my structured upskilling in Automotive Cybersecurity.
